@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": "2026-12-20",
+      "start": "2026-12-20",
+      "challenges": [
+        {
+          "id": "p2-easy-01",
+          "text": "Reach level 6 in one round in Classic mode",
+          "stat": "round_level",
+          "target": 6,
+          "difficulty": "easy",
+          "reward": 5,
+          "mode": "easy"
+        },
+        {
+          "id": "p2-easy-02",
+          "text": "Score 250 in one round in Classic mode",
+          "stat": "round_score",
+          "target": 250,
+          "difficulty": "easy",
+          "reward": 5,
+          "mode": "easy"
+        },
+        {
+          "id": "p2-easy-03",
+          "text": "Make 60 jumps in one round",
+          "stat": "round_jumps",
+          "target": 60,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p2-easy-04",
+          "text": "Play 8 rounds",
+          "stat": "rounds_played",
+          "target": 8,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p2-easy-05",
+          "text": "Use a shield 4 times",
+          "stat": "shields_used",
+          "target": 4,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p2-easy-06",
+          "text": "Collect 12 coins in one round",
+          "stat": "round_coins",
+          "target": 12,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p2-easy-07",
+          "text": "Survive 75 seconds in one round",
+          "stat": "round_seconds",
+          "target": 75,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p2-easy-08",
+          "text": "Use a ghost 3 times",
+          "stat": "ghosts_used",
+          "target": 3,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p2-normal-01",
+          "text": "Reach level 12 in one round",
+          "stat": "round_level",
+          "target": 12,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p2-normal-02",
+          "text": "Score 1800 in one round",
+          "stat": "round_score",
+          "target": 1800,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p2-normal-03",
+          "text": "Make 220 jumps in one round",
+          "stat": "round_jumps",
+          "target": 220,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p2-normal-04",
+          "text": "Play 20 rounds",
+          "stat": "rounds_played",
+          "target": 20,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p2-normal-05",
+          "text": "Use a shield 10 times",
+          "stat": "shields_used",
+          "target": 10,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p2-normal-06",
+          "text": "Collect 20 coins in one round in Classic mode",
+          "stat": "round_coins",
+          "target": 20,
+          "difficulty": "normal",
+          "reward": 10,
+          "mode": "easy"
+        },
+        {
+          "id": "p2-normal-07",
+          "text": "Survive 120 seconds in one round in Classic mode",
+          "stat": "round_seconds",
+          "target": 120,
+          "difficulty": "normal",
+          "reward": 10,
+          "mode": "easy"
+        },
+        {
+          "id": "p2-normal-08",
+          "text": "Use a ghost 5 times",
+          "stat": "ghosts_used",
+          "target": 5,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p2-hard-01",
+          "text": "Survive 270 seconds in one round",
+          "stat": "round_seconds",
+          "target": 270,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "p2-hard-02",
+          "text": "Make 300 jumps in one round",
+          "stat": "round_jumps",
+          "target": 300,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "p2-hard-03",
+          "text": "Score 4000 in one round",
+          "stat": "round_score",
+          "target": 4000,
+          "difficulty": "hard",
+          "reward": 20
+        },
+        {
+          "id": "p2-hard-04",
+          "text": "Reach level 20 in one round in Normal mode",
+          "stat": "round_level",
+          "target": 20,
+          "difficulty": "hard",
+          "reward": 20,
+          "mode": "hard"
+        }
+      ]
+    }
+  ]
+}
