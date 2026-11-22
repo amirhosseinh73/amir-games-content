@@ -1,0 +1,174 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": "2026-11-22",
+      "start": "2026-11-22",
+      "challenges": [
+        {
+          "id": "level_10",
+          "text": "Reach level 15 in one round",
+          "stat": "round_level",
+          "target": 15,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "score_500",
+          "text": "Score 1000 in one round",
+          "stat": "round_score",
+          "target": 1000,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "rounds_3",
+          "text": "Play 10 rounds",
+          "stat": "rounds_played",
+          "target": 10,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "coins_10",
+          "text": "Collect 20 coins in one round",
+          "stat": "round_coins",
+          "target": 20,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "shield_1",
+          "text": "Use a shield 5 times",
+          "stat": "shields_used",
+          "target": 5,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "ghost_1",
+          "text": "Use a ghost 5 times",
+          "stat": "ghosts_used",
+          "target": 5,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "survive_60",
+          "text": "Survive 120 seconds in one round",
+          "stat": "round_seconds",
+          "target": 120,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "unlock_normal",
+          "text": "Unlock Normal mode",
+          "stat": "mode_unlocked",
+          "mode": "hard",
+          "target": 1,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "jumps_100",
+          "text": "Make 150 jumps in one round",
+          "stat": "round_jumps",
+          "target": 150,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "level_5",
+          "text": "Reach level 5 in one round",
+          "stat": "round_level",
+          "target": 5,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "score_300",
+          "text": "Score 300 in one round",
+          "stat": "round_score",
+          "target": 300,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "jumps_50",
+          "text": "Make 50 jumps in one round",
+          "stat": "round_jumps",
+          "target": 50,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "rounds_25",
+          "text": "Play 25 rounds",
+          "stat": "rounds_played",
+          "target": 25,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "shield_15",
+          "text": "Use a shield 15 times",
+          "stat": "shields_used",
+          "target": 15,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "unlock_advanced",
+          "text": "Unlock Advanced mode",
+          "stat": "mode_unlocked",
+          "mode": "advanced",
+          "target": 1,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "coins_40",
+          "text": "Collect 40 coins in one round",
+          "stat": "round_coins",
+          "target": 40,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "level_25",
+          "text": "Reach level 25 in one round",
+          "stat": "round_level",
+          "target": 25,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "normal_level_20",
+          "text": "Reach level 20 in Normal mode",
+          "stat": "round_level",
+          "mode": "hard",
+          "target": 20,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "score_3000",
+          "text": "Score 3000 in one round",
+          "stat": "round_score",
+          "target": 3000,
+          "difficulty": "hard",
+          "reward": 20
+        },
+        {
+          "id": "survive_300",
+          "text": "Survive 300 seconds in one round",
+          "stat": "round_seconds",
+          "target": 300,
+          "difficulty": "hard",
+          "reward": 20
+        }
+      ]
+    }
+  ]
+}
