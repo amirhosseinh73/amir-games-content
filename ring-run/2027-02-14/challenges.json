@@ -1,0 +1,173 @@
+{
+  "version": 1,
+  "sets": [
+    {
+      "id": "2027-02-14",
+      "start": "2027-02-14",
+      "challenges": [
+        {
+          "id": "p6-easy-01",
+          "text": "Reach level 5 in one round in Classic mode",
+          "stat": "round_level",
+          "target": 5,
+          "difficulty": "easy",
+          "reward": 5,
+          "mode": "easy"
+        },
+        {
+          "id": "p6-easy-02",
+          "text": "Score 280 in one round",
+          "stat": "round_score",
+          "target": 280,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-easy-03",
+          "text": "Make 42 jumps in one round",
+          "stat": "round_jumps",
+          "target": 42,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-easy-04",
+          "text": "Play 9 rounds",
+          "stat": "rounds_played",
+          "target": 9,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-easy-05",
+          "text": "Use a shield 4 times",
+          "stat": "shields_used",
+          "target": 4,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-easy-06",
+          "text": "Collect 7 coins in one round",
+          "stat": "round_coins",
+          "target": 7,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-easy-07",
+          "text": "Survive 45 seconds in one round",
+          "stat": "round_seconds",
+          "target": 45,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-easy-08",
+          "text": "Use a ghost 3 times",
+          "stat": "ghosts_used",
+          "target": 3,
+          "difficulty": "easy",
+          "reward": 5
+        },
+        {
+          "id": "p6-normal-01",
+          "text": "Reach level 10 in one round in Normal mode",
+          "stat": "round_level",
+          "target": 10,
+          "difficulty": "normal",
+          "reward": 10,
+          "mode": "hard"
+        },
+        {
+          "id": "p6-normal-02",
+          "text": "Score 2200 in one round",
+          "stat": "round_score",
+          "target": 2200,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-normal-03",
+          "text": "Make 170 jumps in one round",
+          "stat": "round_jumps",
+          "target": 170,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-normal-04",
+          "text": "Play 16 rounds",
+          "stat": "rounds_played",
+          "target": 16,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-normal-05",
+          "text": "Use a shield 6 times",
+          "stat": "shields_used",
+          "target": 6,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-normal-06",
+          "text": "Collect 24 coins in one round",
+          "stat": "round_coins",
+          "target": 24,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-normal-07",
+          "text": "Survive 110 seconds in one round",
+          "stat": "round_seconds",
+          "target": 110,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-normal-08",
+          "text": "Use a ghost 5 times",
+          "stat": "ghosts_used",
+          "target": 5,
+          "difficulty": "normal",
+          "reward": 10
+        },
+        {
+          "id": "p6-hard-01",
+          "text": "Score 3000 in one round",
+          "stat": "round_score",
+          "target": 3000,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "p6-hard-02",
+          "text": "Make 260 jumps in one round",
+          "stat": "round_jumps",
+          "target": 260,
+          "difficulty": "hard",
+          "reward": 15
+        },
+        {
+          "id": "p6-hard-03",
+          "text": "Collect 34 coins in one round",
+          "stat": "round_coins",
+          "target": 34,
+          "difficulty": "hard",
+          "reward": 20
+        },
+        {
+          "id": "p6-hard-04",
+          "text": "Reach level 19 in one round",
+          "stat": "round_level",
+          "target": 19,
+          "difficulty": "hard",
+          "reward": 20
+        }
+      ]
+    }
+  ]
+}
