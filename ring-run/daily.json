@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "days": [
+    {
+      "type": "coins",
+      "amount": 10
+    },
+    {
+      "type": "bullets",
+      "amount": 5
+    },
+    {
+      "type": "coins",
+      "amount": 20
+    },
+    {
+      "type": "heart",
+      "amount": 1
+    },
+    {
+      "type": "ghost",
+      "amount": 1
+    },
+    {
+      "type": "coins",
+      "amount": 30
+    },
+    {
+      "type": "skin",
+      "amount": 1,
+      "skin": "player-clover"
+    }
+  ]
+}
